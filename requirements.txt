@@ -1,0 +1,21 @@
+# HireIQ — Requirements
+# CrewAI 1.x (stable, released Oct 2025)
+
+# Multi-agent framework
+crewai==1.9.3
+
+# LLM provider
+openai==1.82.0
+
+# Resume parsing
+pypdf==5.4.0
+python-docx==1.1.2
+
+# Frontend
+streamlit==1.45.1
+
+# Environment variables
+python-dotenv==1.1.0
+
+# Pydantic (required by CrewAI 1.x)
+pydantic==2.11.4
