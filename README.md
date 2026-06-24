@@ -12,7 +12,7 @@
 
 > **Upload a resume. Paste a JD. Get a complete hiring decision in 60 seconds.**
 
-**[▶ Live Demo](https://huggingface.co/spaces/iamparthtripathi/hireiq)** &nbsp;|&nbsp;
+**[▶ Live Demo](https://iamparthtripathi-hireiq.hf.space)** &nbsp;|&nbsp;
 **[📹 Demo Video](#)** &nbsp;|&nbsp;
 **[📄 Technical Blog Post](#)**
 
